@@ -1,1 +1,1 @@
-This is a test branch file for Git.Minor changes
+This is a test branch file for Git.Minor changes included.
